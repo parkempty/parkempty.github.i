@@ -1,7 +1,7 @@
-# ADRINER's Portfolio
+# Others Studios
 
-**(!):** 이 포트폴리오는 Bootstrap을 사용하여 제작하였습니다.
+**(!):** 마음대로 사용하셔도 무관합니다.
 
-**(!):** ADRINER의 개인 포트폴리오를 저장하기위한 웹입니다.
+**(!):** 어더스 스튜디오 웹페이지 용입니다.
 
-**(!): Download Zip을 하셔도 무방합니다.**
+**(!): Special Thanks ; Adriner(www.adriner.com)
