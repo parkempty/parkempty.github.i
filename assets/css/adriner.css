@@ -1,0 +1,29 @@
+@charset "UTF-8";
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+*{font-family: 'Nanum Gothic', 나눔고딕;}
+body{background:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url("../img/bg.png")};
+.navbar-default, .navbar-inverse{border-radius:0px;border:0px;}
+.wrap{background-color:#ecf0f1;height:100%}
+.container{padding:0px;}
+.header{text-align:center;padding:10px;font-weight:bold;font-size:20pt;}
+a{color:#000;}
+a:hover{color:#000;text-decoration:none}
+.navbar{margin:0px;}
+.jumbo{background-image: url("../img/ju.png");color:#fff;font-size:30pt;text-align:left;padding:30px;}
+.jumbo>p{font-size:15pt;}
+.centered {text-align: center;}.left {text-align: left;}.right {text-align: right;}
+.footer{background:url("../img/fo.png");padding:15px;}
+.contact{width:50%;margin-left:auto;margin-right:auto;display:block;}
+.contact-t{font-size:16pt;font-weight:bold;}
+
+/* Jumbotron Color Set */
+.jumbotron-primary{background-color:#337ab7;color:#fff}
+.jumbotron-success{background-color:#5cb85c;color:#fff}
+.jumbotron-info{background-color:#5bc0de;color:#fff}
+.jumbotron-warning{background-color:#f0ad4e;color:#fff}
+.jumbotron-danger{background-color:#d9534f;color:#fff}
+
+/* Scroll Bar */
+::-webkit-scrollbar{width:5px;}
+::-webkit-scrollbar-track-piece{background-color:#aaaaaa}
+::-webkit-scrollbar-thumb{background-color:#ffffff;border-radius:7px;-webkit-transition:.2s background-color ease;}
